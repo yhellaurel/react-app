@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "c6a9ec8b-f07b-4c9b-ad7b-4c133e4fb9b0",
+      "name": "Second tasks",
+      "description": "This is my second tasks",
+      "category": "Garden Chores",
+      "active": false
+    },
+    {
+      "id": "403049cf-ddae-4403-bba1-8abf44da4ab9",
+      "name": "Self check",
+      "description": "Please check everything",
+      "category": "House Chores",
+      "active": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "085f9301-52d7-475c-99dd-3d0fffaec2d4",
+      "name": "House Chores"
+    },
+    {
+      "id": "e98c42bd-ae3a-49d5-94bf-690dd1cad577",
+      "name": "Office"
+    },
+    {
+      "id": "1fd28035-49ca-42eb-aed8-b1dcf63854ff",
+      "name": "Garden Chores"
+    }
+  ]
+}
